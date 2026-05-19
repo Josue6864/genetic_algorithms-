@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Agent
+comment1.params=
+comment1.target=Agent()
+comment2.params=parentGenes
+comment2.target=Agent(int[])
+comment3.params=
+comment3.target=void\ act()
+comment4.params=gene
+comment4.target=void\ moveAccordingToGene(int)
+comment5.params=
+comment5.target=void\ calculateFitness()
+numComments=6
